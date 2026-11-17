@@ -1,0 +1,391 @@
+2025-05-26 03:08:54 - [SHUTDOWN] Server is shutting down due to SIGINT
+2025-05-26 03:09:22 - [LOGIN] user 'bengi' connected from 127.0.0.1
+2025-05-26 03:09:49 - [LOGIN] user 'zeynep' connected from 127.0.0.1
+2025-05-26 03:10:11 - [LOGIN] user 'selin' connected from 127.0.0.1
+2025-05-26 03:10:19 - [FILE] 'deneme.txt' from user 'selin' started upload immediately.
+2025-05-26 03:10:19 - [SEND FILE] 'deneme.txt' sent from selin to bengi (success)
+2025-05-26 03:10:40 - [FILE] 'deneme.txt' from user 'zeynep' started upload immediately.
+2025-05-26 03:10:40 - [SEND FILE] 'deneme.txt' sent from zeynep to bengi (success)
+2025-05-26 03:14:38 - [DISCONNECT] user 'bengi' disconnected
+2025-05-26 03:14:40 - [DISCONNECT] user 'zeynep' disconnected
+2025-05-26 03:14:46 - [SHUTDOWN] Server is shutting down due to SIGINT
+2025-05-26 03:16:13 - [LOGIN] user 'bengi' connected from 127.0.0.1
+2025-05-26 03:16:21 - [LOGIN] user 'zeyneo' connected from 127.0.0.1
+2025-05-26 03:16:26 - [LOGIN] user 'selin' connected from 127.0.0.1
+2025-05-26 03:16:36 - [FILE] 'deneme.txt' from user 'zeyneo' started upload immediately.
+2025-05-26 03:16:36 - [SEND FILE] 'deneme.txt' sent from zeyneo to bengi (success)
+2025-05-26 03:16:43 - [FILE] 'deneme.txt' from user 'selin' started upload immediately.
+2025-05-26 03:16:43 - [FILE] Conflict: 'deneme.txt' received again → renamed 'deneme_1.txt'
+2025-05-26 03:16:43 - [SEND FILE] 'deneme_1.txt' sent from selin to bengi (success)
+2025-05-26 03:29:07 - [DISCONNECT] user 'selin' disconnected
+2025-05-26 03:29:10 - [DISCONNECT] user 'zeyneo' disconnected
+2025-05-26 03:29:13 - [DISCONNECT] user 'bengi' disconnected
+2025-05-26 03:29:15 - [SHUTDOWN] Server is shutting down due to SIGINT
+2025-05-26 21:51:57 - [LOGIN] user 'target1' connected from 127.0.0.1
+2025-05-26 21:51:57 - [LOGIN] user 'target2' connected from 127.0.0.1
+2025-05-26 21:51:57 - [LOGIN] user 'target7' connected from 127.0.0.1
+2025-05-26 21:51:57 - [LOGIN] user 'target9' connected from 127.0.0.1
+2025-05-26 21:51:57 - [LOGIN] user 'target3' connected from 127.0.0.1
+2025-05-26 21:51:57 - [LOGIN] user 'target4' connected from 127.0.0.1
+2025-05-26 21:51:57 - [LOGIN] user 'target6' connected from 127.0.0.1
+2025-05-26 21:51:57 - [LOGIN] user 'target5' connected from 127.0.0.1
+2025-05-26 21:51:57 - [LOGIN] user 'target10' connected from 127.0.0.1
+2025-05-26 21:51:57 - [LOGIN] user 'target8' connected from 127.0.0.1
+2025-05-26 21:51:58 - [JOIN] user 'target2' joined room 'room102'
+2025-05-26 21:51:58 - [JOIN] user 'target1' joined room 'room101'
+2025-05-26 21:51:58 - [JOIN] user 'target7' joined room 'room107'
+2025-05-26 21:51:58 - [JOIN] user 'target9' joined room 'room109'
+2025-05-26 21:51:58 - [JOIN] user 'target6' joined room 'room106'
+2025-05-26 21:51:58 - [LOGIN] user 'user1' connected from 127.0.0.1
+2025-05-26 21:51:58 - [JOIN] user 'target5' joined room 'room105'
+2025-05-26 21:51:58 - [JOIN] user 'target3' joined room 'room103'
+2025-05-26 21:51:58 - [JOIN] user 'target4' joined room 'room104'
+2025-05-26 21:51:58 - [JOIN] user 'target8' joined room 'room108'
+2025-05-26 21:51:58 - [JOIN] user 'target10' joined room 'room110'
+2025-05-26 21:51:59 - [LOGIN] user 'user2' connected from 127.0.0.1
+2025-05-26 21:51:59 - [LOGIN] user 'user3' connected from 127.0.0.1
+2025-05-26 21:51:59 - [LOGIN] user 'user4' connected from 127.0.0.1
+2025-05-26 21:51:59 - [JOIN] user 'user1' joined room 'room1'
+2025-05-26 21:52:00 - [LOGIN] user 'user5' connected from 127.0.0.1
+2025-05-26 21:52:00 - [JOIN] user 'user2' joined room 'room2'
+2025-05-26 21:52:00 - [LOGIN] user 'user6' connected from 127.0.0.1
+2025-05-26 21:52:00 - [JOIN] user 'user3' joined room 'room3'
+2025-05-26 21:52:00 - [LOGIN] user 'user7' connected from 127.0.0.1
+2025-05-26 21:52:00 - [JOIN] user 'user4' joined room 'room4'
+2025-05-26 21:52:00 - [REJECTED] Failed to open file 'test.txt' from user 'user1'
+2025-05-26 21:52:00 - [LOGIN] user 'user8' connected from 127.0.0.1
+2025-05-26 21:52:01 - [JOIN] user 'user5' joined room 'room5'
+2025-05-26 21:52:01 - [REJECTED] Failed to open file 'test.txt' from user 'user2'
+2025-05-26 21:52:01 - [LOGIN] user 'user9' connected from 127.0.0.1
+2025-05-26 21:52:01 - [JOIN] user 'user6' joined room 'room6'
+2025-05-26 21:52:01 - [REJECTED] Failed to open file 'test.txt' from user 'user3'
+2025-05-26 21:52:01 - [LOGIN] user 'user10' connected from 127.0.0.1
+2025-05-26 21:52:01 - [JOIN] user 'user7' joined room 'room7'
+2025-05-26 21:52:01 - [REJECTED] Failed to open file 'test.txt' from user 'user4'
+2025-05-26 21:52:01 - [JOIN] user 'user8' joined room 'room8'
+2025-05-26 21:52:02 - [REJECTED] Failed to open file 'test.txt' from user 'user5'
+2025-05-26 21:52:02 - [JOIN] user 'user9' joined room 'room9'
+2025-05-26 21:52:02 - [REJECTED] Failed to open file 'test.txt' from user 'user6'
+2025-05-26 21:52:02 - [JOIN] user 'user10' joined room 'room10'
+2025-05-26 21:52:02 - [REJECTED] Failed to open file 'test.txt' from user 'user7'
+2025-05-26 21:52:02 - [REJECTED] Failed to open file 'test.txt' from user 'user8'
+2025-05-26 21:52:03 - [REJECTED] Failed to open file 'test.txt' from user 'user9'
+2025-05-26 21:52:03 - [REJECTED] Failed to open file 'test.txt' from user 'user10'
+2025-05-26 21:52:15 - [DISCONNECT] user 'user1' exited manually
+2025-05-26 21:52:15 - [DISCONNECT] user 'user1' disconnected
+2025-05-26 21:52:16 - [DISCONNECT] user 'user2' exited manually
+2025-05-26 21:52:16 - [DISCONNECT] user 'user2' disconnected
+2025-05-26 21:52:16 - [DISCONNECT] user 'user3' exited manually
+2025-05-26 21:52:16 - [DISCONNECT] user 'user3' disconnected
+2025-05-26 21:52:16 - [DISCONNECT] user 'user4' exited manually
+2025-05-26 21:52:16 - [DISCONNECT] user 'user4' disconnected
+2025-05-26 21:52:17 - [DISCONNECT] user 'user5' exited manually
+2025-05-26 21:52:17 - [DISCONNECT] user 'user5' disconnected
+2025-05-26 21:52:17 - [DISCONNECT] user 'user6' exited manually
+2025-05-26 21:52:17 - [DISCONNECT] user 'user6' disconnected
+2025-05-26 21:52:17 - [DISCONNECT] user 'user7' exited manually
+2025-05-26 21:52:17 - [DISCONNECT] user 'user7' disconnected
+2025-05-26 21:52:17 - [DISCONNECT] user 'user8' exited manually
+2025-05-26 21:52:17 - [DISCONNECT] user 'user8' disconnected
+2025-05-26 21:52:18 - [DISCONNECT] user 'user9' exited manually
+2025-05-26 21:52:18 - [DISCONNECT] user 'user9' disconnected
+2025-05-26 21:52:18 - [DISCONNECT] user 'user10' exited manually
+2025-05-26 21:52:18 - [DISCONNECT] user 'user10' disconnected
+2025-05-26 21:52:28 - [DISCONNECT] user 'target2' exited manually
+2025-05-26 21:52:28 - [DISCONNECT] user 'target2' disconnected
+2025-05-26 21:52:28 - [DISCONNECT] user 'target1' exited manually
+2025-05-26 21:52:28 - [DISCONNECT] user 'target1' disconnected
+2025-05-26 21:52:28 - [DISCONNECT] user 'target7' exited manually
+2025-05-26 21:52:28 - [DISCONNECT] user 'target7' disconnected
+2025-05-26 21:52:28 - [DISCONNECT] user 'target9' exited manually
+2025-05-26 21:52:28 - [DISCONNECT] user 'target6' exited manually
+2025-05-26 21:52:28 - [DISCONNECT] user 'target6' disconnected
+2025-05-26 21:52:28 - [DISCONNECT] user 'target9' disconnected
+2025-05-26 21:52:28 - [DISCONNECT] user 'target8' exited manually
+2025-05-26 21:52:28 - [DISCONNECT] user 'target8' disconnected
+2025-05-26 21:52:28 - [DISCONNECT] user 'target4' exited manually
+2025-05-26 21:52:28 - [DISCONNECT] user 'target4' disconnected
+2025-05-26 21:52:28 - [DISCONNECT] user 'target5' exited manually
+2025-05-26 21:52:28 - [DISCONNECT] user 'target5' disconnected
+2025-05-26 21:52:28 - [DISCONNECT] user 'target3' exited manually
+2025-05-26 21:52:28 - [DISCONNECT] user 'target3' disconnected
+2025-05-26 21:52:28 - [DISCONNECT] user 'target10' exited manually
+2025-05-26 21:52:28 - [DISCONNECT] user 'target10' disconnected
+2025-05-26 21:52:41 - [LOGIN] user 'target1' connected from 127.0.0.1
+2025-05-26 21:52:41 - [LOGIN] user 'target2' connected from 127.0.0.1
+2025-05-26 21:52:41 - [LOGIN] user 'target3' connected from 127.0.0.1
+2025-05-26 21:52:41 - [LOGIN] user 'target7' connected from 127.0.0.1
+2025-05-26 21:52:41 - [LOGIN] user 'target10' connected from 127.0.0.1
+2025-05-26 21:52:41 - [LOGIN] user 'target4' connected from 127.0.0.1
+2025-05-26 21:52:41 - [LOGIN] user 'target9' connected from 127.0.0.1
+2025-05-26 21:52:41 - [LOGIN] user 'target6' connected from 127.0.0.1
+2025-05-26 21:52:41 - [LOGIN] user 'target8' connected from 127.0.0.1
+2025-05-26 21:52:41 - [LOGIN] user 'target5' connected from 127.0.0.1
+2025-05-26 21:52:42 - [ROOM] user 'target2' rejoined 'room102'
+2025-05-26 21:52:42 - [ROOM] user 'target1' rejoined 'room101'
+2025-05-26 21:52:42 - [ROOM] user 'target3' rejoined 'room103'
+2025-05-26 21:52:42 - [ROOM] user 'target7' rejoined 'room107'
+2025-05-26 21:52:42 - [ROOM] user 'target10' rejoined 'room110'
+2025-05-26 21:52:42 - [ROOM] user 'target4' rejoined 'room104'
+2025-05-26 21:52:42 - [LOGIN] user 'user1' connected from 127.0.0.1
+2025-05-26 21:52:42 - [ROOM] user 'target9' rejoined 'room109'
+2025-05-26 21:52:42 - [ROOM] user 'target6' rejoined 'room106'
+2025-05-26 21:52:42 - [ROOM] user 'target8' rejoined 'room108'
+2025-05-26 21:52:42 - [ROOM] user 'target5' rejoined 'room105'
+2025-05-26 21:52:43 - [LOGIN] user 'user2' connected from 127.0.0.1
+2025-05-26 21:52:43 - [LOGIN] user 'user3' connected from 127.0.0.1
+2025-05-26 21:52:43 - [LOGIN] user 'user4' connected from 127.0.0.1
+2025-05-26 21:52:43 - [ROOM] user 'user1' rejoined 'room1'
+2025-05-26 21:52:44 - [LOGIN] user 'user5' connected from 127.0.0.1
+2025-05-26 21:52:44 - [ROOM] user 'user2' rejoined 'room2'
+2025-05-26 21:52:44 - [LOGIN] user 'user6' connected from 127.0.0.1
+2025-05-26 21:52:44 - [ROOM] user 'user3' rejoined 'room3'
+2025-05-26 21:52:44 - [LOGIN] user 'user7' connected from 127.0.0.1
+2025-05-26 21:52:44 - [ROOM] user 'user4' rejoined 'room4'
+2025-05-26 21:52:44 - [FILE] 'test.txt' from user 'user1' started upload immediately.
+2025-05-26 21:52:44 - [SEND FILE] 'test.txt' sent from user1 to target1 (success)
+2025-05-26 21:52:45 - [LOGIN] user 'user8' connected from 127.0.0.1
+2025-05-26 21:52:45 - [ROOM] user 'user5' rejoined 'room5'
+2025-05-26 21:52:45 - [FILE] 'test.txt' from user 'user2' started upload immediately.
+2025-05-26 21:52:45 - [SEND FILE] 'test.txt' sent from user2 to target2 (success)
+2025-05-26 21:52:45 - [LOGIN] user 'user9' connected from 127.0.0.1
+2025-05-26 21:52:45 - [ROOM] user 'user6' rejoined 'room6'
+2025-05-26 21:52:45 - [FILE] 'test.txt' from user 'user3' started upload immediately.
+2025-05-26 21:52:45 - [SEND FILE] 'test.txt' sent from user3 to target3 (success)
+2025-05-26 21:52:45 - [LOGIN] user 'user10' connected from 127.0.0.1
+2025-05-26 21:52:45 - [ROOM] user 'user7' rejoined 'room7'
+2025-05-26 21:52:45 - [FILE] 'test.txt' from user 'user4' started upload immediately.
+2025-05-26 21:52:45 - [SEND FILE] 'test.txt' sent from user4 to target4 (success)
+2025-05-26 21:52:46 - [ROOM] user 'user8' rejoined 'room8'
+2025-05-26 21:52:46 - [FILE] 'test.txt' from user 'user5' started upload immediately.
+2025-05-26 21:52:46 - [SEND FILE] 'test.txt' sent from user5 to target5 (success)
+2025-05-26 21:52:46 - [ROOM] user 'user9' rejoined 'room9'
+2025-05-26 21:52:46 - [FILE] 'test.txt' from user 'user6' started upload immediately.
+2025-05-26 21:52:46 - [SEND FILE] 'test.txt' sent from user6 to target6 (success)
+2025-05-26 21:52:46 - [ROOM] user 'user10' rejoined 'room10'
+2025-05-26 21:52:46 - [FILE] 'test.txt' from user 'user7' started upload immediately.
+2025-05-26 21:52:46 - [SEND FILE] 'test.txt' sent from user7 to target7 (success)
+2025-05-26 21:52:47 - [FILE] 'test.txt' from user 'user8' started upload immediately.
+2025-05-26 21:52:47 - [SEND FILE] 'test.txt' sent from user8 to target8 (success)
+2025-05-26 21:52:47 - [FILE] 'test.txt' from user 'user9' started upload immediately.
+2025-05-26 21:52:47 - [SEND FILE] 'test.txt' sent from user9 to target9 (success)
+2025-05-26 21:52:47 - [FILE] 'test.txt' from user 'user10' started upload immediately.
+2025-05-26 21:52:47 - [SEND FILE] 'test.txt' sent from user10 to target10 (success)
+2025-05-26 21:52:59 - [DISCONNECT] user 'user1' exited manually
+2025-05-26 21:52:59 - [DISCONNECT] user 'user1' disconnected
+2025-05-26 21:53:00 - [DISCONNECT] user 'user2' exited manually
+2025-05-26 21:53:00 - [DISCONNECT] user 'user2' disconnected
+2025-05-26 21:53:00 - [DISCONNECT] user 'user3' exited manually
+2025-05-26 21:53:00 - [DISCONNECT] user 'user3' disconnected
+2025-05-26 21:53:00 - [DISCONNECT] user 'user4' exited manually
+2025-05-26 21:53:00 - [DISCONNECT] user 'user4' disconnected
+2025-05-26 21:53:01 - [DISCONNECT] user 'user5' exited manually
+2025-05-26 21:53:01 - [DISCONNECT] user 'user5' disconnected
+2025-05-26 21:53:01 - [DISCONNECT] user 'user6' exited manually
+2025-05-26 21:53:01 - [DISCONNECT] user 'user6' disconnected
+2025-05-26 21:53:01 - [DISCONNECT] user 'user7' exited manually
+2025-05-26 21:53:01 - [DISCONNECT] user 'user7' disconnected
+2025-05-26 21:53:02 - [DISCONNECT] user 'user8' exited manually
+2025-05-26 21:53:02 - [DISCONNECT] user 'user8' disconnected
+2025-05-26 21:53:02 - [DISCONNECT] user 'user9' exited manually
+2025-05-26 21:53:02 - [DISCONNECT] user 'user9' disconnected
+2025-05-26 21:53:02 - [DISCONNECT] user 'user10' exited manually
+2025-05-26 21:53:02 - [DISCONNECT] user 'user10' disconnected
+2025-05-26 21:53:12 - [DISCONNECT] user 'target2' exited manually
+2025-05-26 21:53:12 - [DISCONNECT] user 'target2' disconnected
+2025-05-26 21:53:12 - [DISCONNECT] user 'target1' exited manually
+2025-05-26 21:53:12 - [DISCONNECT] user 'target1' disconnected
+2025-05-26 21:53:12 - [DISCONNECT] user 'target3' exited manually
+2025-05-26 21:53:12 - [DISCONNECT] user 'target3' disconnected
+2025-05-26 21:53:12 - [DISCONNECT] user 'target10' exited manually
+2025-05-26 21:53:12 - [DISCONNECT] user 'target10' disconnected
+2025-05-26 21:53:12 - [DISCONNECT] user 'target7' exited manually
+2025-05-26 21:53:12 - [DISCONNECT] user 'target7' disconnected
+2025-05-26 21:53:12 - [DISCONNECT] user 'target4' exited manually
+2025-05-26 21:53:12 - [DISCONNECT] user 'target4' disconnected
+2025-05-26 21:53:12 - [DISCONNECT] user 'target9' exited manually
+2025-05-26 21:53:12 - [DISCONNECT] user 'target9' disconnected
+2025-05-26 21:53:12 - [DISCONNECT] user 'target8' exited manually
+2025-05-26 21:53:12 - [DISCONNECT] user 'target8' disconnected
+2025-05-26 21:53:12 - [DISCONNECT] user 'target6' exited manually
+2025-05-26 21:53:12 - [DISCONNECT] user 'target6' disconnected
+2025-05-26 21:53:12 - [DISCONNECT] user 'target5' exited manually
+2025-05-26 21:53:12 - [DISCONNECT] user 'target5' disconnected
+2025-06-27 16:10:17 - [LOGIN] user 'bengi' connected from 127.0.0.1
+2025-06-27 16:10:24 - [JOIN] user 'bengi' joined room 'room1'
+2025-06-27 16:10:30 - [LEAVE] user 'bengi' left their room and returned to 'lobby'
+2025-06-27 16:14:37 - [LOGIN] user 'user1' connected from 127.0.0.1
+2025-06-27 16:14:37 - [LOGIN] user 'user4' connected from 127.0.0.1
+2025-06-27 16:14:38 - [LOGIN] user 'user2' connected from 127.0.0.1
+2025-06-27 16:14:38 - [LOGIN] user 'user8' connected from 127.0.0.1
+2025-06-27 16:14:38 - [LOGIN] user 'user3' connected from 127.0.0.1
+2025-06-27 16:14:38 - [LOGIN] user 'user5' connected from 127.0.0.1
+2025-06-27 16:14:38 - [LOGIN] user 'user9' connected from 127.0.0.1
+2025-06-27 16:14:38 - [LOGIN] user 'user6' connected from 127.0.0.1
+2025-06-27 16:14:38 - [LOGIN] user 'user7' connected from 127.0.0.1
+2025-06-27 16:14:38 - [LOGIN] user 'user11' connected from 127.0.0.1
+2025-06-27 16:14:38 - [LOGIN] user 'user14' connected from 127.0.0.1
+2025-06-27 16:14:38 - [LOGIN] user 'user12' connected from 127.0.0.1
+2025-06-27 16:14:38 - [LOGIN] user 'user13' connected from 127.0.0.1
+2025-06-27 16:14:38 - [LOGIN] user 'user15' connected from 127.0.0.1
+2025-06-27 16:14:38 - [LOGIN] user 'user10' connected from 127.0.0.1
+2025-06-27 16:14:39 - [JOIN] user 'user4' joined room 'roomA'
+2025-06-27 16:14:39 - [JOIN] user 'user1' joined room 'roomA'
+2025-06-27 16:14:39 - [JOIN] user 'user3' joined room 'roomC'
+2025-06-27 16:14:39 - [JOIN] user 'user2' joined room 'roomB'
+2025-06-27 16:14:39 - [JOIN] user 'user8' joined room 'roomB'
+2025-06-27 16:14:39 - [JOIN] user 'user9' joined room 'roomC'
+2025-06-27 16:14:39 - [JOIN] user 'user5' joined room 'roomB'
+2025-06-27 16:14:39 - [JOIN] user 'user6' joined room 'roomC'
+2025-06-27 16:14:39 - [JOIN] user 'user7' joined room 'roomA'
+2025-06-27 16:14:39 - [JOIN] user 'user11' joined room 'roomB'
+2025-06-27 16:14:39 - [JOIN] user 'user14' joined room 'roomB'
+2025-06-27 16:14:39 - [JOIN] user 'user12' joined room 'roomC'
+2025-06-27 16:14:39 - [JOIN] user 'user13' joined room 'roomA'
+2025-06-27 16:14:39 - [JOIN] user 'user10' joined room 'roomA'
+2025-06-27 16:14:39 - [JOIN] user 'user15' joined room 'roomC'
+2025-06-27 16:14:40 - [BROADCAST] user 'user1': Hello from user1 in roomA
+2025-06-27 16:14:40 - [BROADCAST] user 'user4': Hello from user4 in roomA
+2025-06-27 16:14:40 - [BROADCAST] user 'user2': Hello from user2 in roomB
+2025-06-27 16:14:40 - [BROADCAST] user 'user3': Hello from user3 in roomC
+2025-06-27 16:14:40 - [BROADCAST] user 'user8': Hello from user8 in roomB
+2025-06-27 16:14:40 - [BROADCAST] user 'user5': Hello from user5 in roomB
+2025-06-27 16:14:40 - [BROADCAST] user 'user9': Hello from user9 in roomC
+2025-06-27 16:14:40 - [BROADCAST] user 'user6': Hello from user6 in roomC
+2025-06-27 16:14:40 - [BROADCAST] user 'user7': Hello from user7 in roomA
+2025-06-27 16:14:40 - [BROADCAST] user 'user11': Hello from user11 in roomB
+2025-06-27 16:14:40 - [BROADCAST] user 'user14': Hello from user14 in roomB
+2025-06-27 16:14:40 - [BROADCAST] user 'user15': Hello from user15 in roomC
+2025-06-27 16:14:40 - [BROADCAST] user 'user12': Hello from user12 in roomC
+2025-06-27 16:14:40 - [BROADCAST] user 'user13': Hello from user13 in roomA
+2025-06-27 16:14:40 - [BROADCAST] user 'user10': Hello from user10 in roomA
+2025-06-27 16:14:41 - [DISCONNECT] user 'user1' exited manually
+2025-06-27 16:14:41 - [DISCONNECT] user 'user4' exited manually
+2025-06-27 16:14:41 - [DISCONNECT] user 'user2' exited manually
+2025-06-27 16:14:41 - [DISCONNECT] user 'user4' disconnected
+2025-06-27 16:14:41 - [DISCONNECT] user 'user1' disconnected
+2025-06-27 16:14:41 - [DISCONNECT] user 'user2' disconnected
+2025-06-27 16:14:41 - [DISCONNECT] user 'user3' exited manually
+2025-06-27 16:14:41 - [DISCONNECT] user 'user3' disconnected
+2025-06-27 16:14:41 - [DISCONNECT] user 'user8' exited manually
+2025-06-27 16:14:41 - [DISCONNECT] user 'user8' disconnected
+2025-06-27 16:14:41 - [DISCONNECT] user 'user9' exited manually
+2025-06-27 16:14:41 - [DISCONNECT] user 'user5' exited manually
+2025-06-27 16:14:41 - [DISCONNECT] user 'user9' disconnected
+2025-06-27 16:14:41 - [DISCONNECT] user 'user5' disconnected
+2025-06-27 16:14:41 - [DISCONNECT] user 'user6' exited manually
+2025-06-27 16:14:41 - [DISCONNECT] user 'user6' disconnected
+2025-06-27 16:14:41 - [DISCONNECT] user 'user7' exited manually
+2025-06-27 16:14:41 - [DISCONNECT] user 'user7' disconnected
+2025-06-27 16:14:41 - [DISCONNECT] user 'user11' exited manually
+2025-06-27 16:14:41 - [DISCONNECT] user 'user11' disconnected
+2025-06-27 16:14:41 - [DISCONNECT] user 'user14' exited manually
+2025-06-27 16:14:41 - [DISCONNECT] user 'user14' disconnected
+2025-06-27 16:14:41 - [DISCONNECT] user 'user12' exited manually
+2025-06-27 16:14:41 - [DISCONNECT] user 'user12' disconnected
+2025-06-27 16:14:41 - [DISCONNECT] user 'user13' exited manually
+2025-06-27 16:14:41 - [DISCONNECT] user 'user10' exited manually
+2025-06-27 16:14:41 - [DISCONNECT] user 'user13' disconnected
+2025-06-27 16:14:41 - [DISCONNECT] user 'user10' disconnected
+2025-06-27 16:14:41 - [DISCONNECT] user 'user15' exited manually
+2025-06-27 16:14:41 - [DISCONNECT] user 'user15' disconnected
+2025-06-27 16:15:01 - [LOGIN] user 'target3' connected from 127.0.0.1
+2025-06-27 16:15:01 - [LOGIN] user 'target1' connected from 127.0.0.1
+2025-06-27 16:15:01 - [LOGIN] user 'target2' connected from 127.0.0.1
+2025-06-27 16:15:01 - [LOGIN] user 'target4' connected from 127.0.0.1
+2025-06-27 16:15:01 - [LOGIN] user 'target8' connected from 127.0.0.1
+2025-06-27 16:15:01 - [LOGIN] user 'target10' connected from 127.0.0.1
+2025-06-27 16:15:01 - [LOGIN] user 'target5' connected from 127.0.0.1
+2025-06-27 16:15:01 - [LOGIN] user 'target9' connected from 127.0.0.1
+2025-06-27 16:15:01 - [LOGIN] user 'target7' connected from 127.0.0.1
+2025-06-27 16:15:01 - [LOGIN] user 'target6' connected from 127.0.0.1
+2025-06-27 16:15:02 - [JOIN] user 'target1' joined room 'room101'
+2025-06-27 16:15:02 - [JOIN] user 'target3' joined room 'room103'
+2025-06-27 16:15:02 - [JOIN] user 'target4' joined room 'room104'
+2025-06-27 16:15:02 - [JOIN] user 'target2' joined room 'room102'
+2025-06-27 16:15:02 - [JOIN] user 'target8' joined room 'room108'
+2025-06-27 16:15:02 - [LOGIN] user 'user1' connected from 127.0.0.1
+2025-06-27 16:15:02 - [JOIN] user 'target5' joined room 'room105'
+2025-06-27 16:15:02 - [JOIN] user 'target9' joined room 'room109'
+2025-06-27 16:15:02 - [JOIN] user 'target10' joined room 'room110'
+2025-06-27 16:15:02 - [JOIN] user 'target7' joined room 'room107'
+2025-06-27 16:15:02 - [JOIN] user 'target6' joined room 'room106'
+2025-06-27 16:15:02 - [LOGIN] user 'user2' connected from 127.0.0.1
+2025-06-27 16:15:02 - [LOGIN] user 'user3' connected from 127.0.0.1
+2025-06-27 16:15:03 - [LOGIN] user 'user4' connected from 127.0.0.1
+2025-06-27 16:15:03 - [JOIN] user 'user1' joined room 'room1'
+2025-06-27 16:15:03 - [LOGIN] user 'user5' connected from 127.0.0.1
+2025-06-27 16:15:03 - [JOIN] user 'user2' joined room 'room2'
+2025-06-27 16:15:03 - [LOGIN] user 'user6' connected from 127.0.0.1
+2025-06-27 16:15:03 - [JOIN] user 'user3' joined room 'room3'
+2025-06-27 16:15:04 - [LOGIN] user 'user7' connected from 127.0.0.1
+2025-06-27 16:15:04 - [JOIN] user 'user4' joined room 'room4'
+2025-06-27 16:15:04 - [FILE] 'test.txt' from user 'user1' started upload immediately.
+2025-06-27 16:15:04 - [SEND FILE] 'test.txt' sent from user1 to target1 (success)
+2025-06-27 16:15:04 - [LOGIN] user 'user8' connected from 127.0.0.1
+2025-06-27 16:15:04 - [JOIN] user 'user5' joined room 'room5'
+2025-06-27 16:15:04 - [FILE] 'test.txt' from user 'user2' started upload immediately.
+2025-06-27 16:15:04 - [SEND FILE] 'test.txt' sent from user2 to target2 (success)
+2025-06-27 16:15:04 - [LOGIN] user 'user9' connected from 127.0.0.1
+2025-06-27 16:15:04 - [JOIN] user 'user6' joined room 'room6'
+2025-06-27 16:15:04 - [FILE] 'test.txt' from user 'user3' started upload immediately.
+2025-06-27 16:15:04 - [SEND FILE] 'test.txt' sent from user3 to target3 (success)
+2025-06-27 16:15:05 - [LOGIN] user 'user10' connected from 127.0.0.1
+2025-06-27 16:15:05 - [JOIN] user 'user7' joined room 'room7'
+2025-06-27 16:15:05 - [FILE] 'test.txt' from user 'user4' started upload immediately.
+2025-06-27 16:15:05 - [SEND FILE] 'test.txt' sent from user4 to target4 (success)
+2025-06-27 16:15:05 - [JOIN] user 'user8' joined room 'room8'
+2025-06-27 16:15:05 - [FILE] 'test.txt' from user 'user5' started upload immediately.
+2025-06-27 16:15:05 - [SEND FILE] 'test.txt' sent from user5 to target5 (success)
+2025-06-27 16:15:05 - [JOIN] user 'user9' joined room 'room9'
+2025-06-27 16:15:05 - [FILE] 'test.txt' from user 'user6' started upload immediately.
+2025-06-27 16:15:05 - [SEND FILE] 'test.txt' sent from user6 to target6 (success)
+2025-06-27 16:15:06 - [JOIN] user 'user10' joined room 'room10'
+2025-06-27 16:15:06 - [FILE] 'test.txt' from user 'user7' started upload immediately.
+2025-06-27 16:15:06 - [SEND FILE] 'test.txt' sent from user7 to target7 (success)
+2025-06-27 16:15:06 - [FILE] 'test.txt' from user 'user8' started upload immediately.
+2025-06-27 16:15:06 - [SEND FILE] 'test.txt' sent from user8 to target8 (success)
+2025-06-27 16:15:06 - [FILE] 'test.txt' from user 'user9' started upload immediately.
+2025-06-27 16:15:06 - [SEND FILE] 'test.txt' sent from user9 to target9 (success)
+2025-06-27 16:15:07 - [FILE] 'test.txt' from user 'user10' started upload immediately.
+2025-06-27 16:15:07 - [SEND FILE] 'test.txt' sent from user10 to target10 (success)
+2025-06-27 16:15:19 - [DISCONNECT] user 'user1' exited manually
+2025-06-27 16:15:19 - [DISCONNECT] user 'user1' disconnected
+2025-06-27 16:15:19 - [DISCONNECT] user 'user2' exited manually
+2025-06-27 16:15:19 - [DISCONNECT] user 'user2' disconnected
+2025-06-27 16:15:19 - [DISCONNECT] user 'user3' exited manually
+2025-06-27 16:15:19 - [DISCONNECT] user 'user3' disconnected
+2025-06-27 16:15:20 - [DISCONNECT] user 'user4' exited manually
+2025-06-27 16:15:20 - [DISCONNECT] user 'user4' disconnected
+2025-06-27 16:15:20 - [DISCONNECT] user 'user5' exited manually
+2025-06-27 16:15:20 - [DISCONNECT] user 'user5' disconnected
+2025-06-27 16:15:20 - [DISCONNECT] user 'user6' exited manually
+2025-06-27 16:15:20 - [DISCONNECT] user 'user6' disconnected
+2025-06-27 16:15:21 - [DISCONNECT] user 'user7' exited manually
+2025-06-27 16:15:21 - [DISCONNECT] user 'user7' disconnected
+2025-06-27 16:15:21 - [DISCONNECT] user 'user8' exited manually
+2025-06-27 16:15:21 - [DISCONNECT] user 'user8' disconnected
+2025-06-27 16:15:21 - [DISCONNECT] user 'user9' exited manually
+2025-06-27 16:15:21 - [DISCONNECT] user 'user9' disconnected
+2025-06-27 16:15:22 - [DISCONNECT] user 'user10' exited manually
+2025-06-27 16:15:22 - [DISCONNECT] user 'user10' disconnected
+2025-06-27 16:15:32 - [DISCONNECT] user 'target3' exited manually
+2025-06-27 16:15:32 - [DISCONNECT] user 'target3' disconnected
+2025-06-27 16:15:32 - [DISCONNECT] user 'target2' exited manually
+2025-06-27 16:15:32 - [DISCONNECT] user 'target2' disconnected
+2025-06-27 16:15:32 - [DISCONNECT] user 'target4' exited manually
+2025-06-27 16:15:32 - [DISCONNECT] user 'target4' disconnected
+2025-06-27 16:15:32 - [DISCONNECT] user 'target1' exited manually
+2025-06-27 16:15:32 - [DISCONNECT] user 'target1' disconnected
+2025-06-27 16:15:32 - [DISCONNECT] user 'target8' exited manually
+2025-06-27 16:15:32 - [DISCONNECT] user 'target8' disconnected
+2025-06-27 16:15:32 - [DISCONNECT] user 'target5' exited manually
+2025-06-27 16:15:32 - [DISCONNECT] user 'target5' disconnected
+2025-06-27 16:15:32 - [DISCONNECT] user 'target10' exited manually
+2025-06-27 16:15:32 - [DISCONNECT] user 'target10' disconnected
+2025-06-27 16:15:32 - [DISCONNECT] user 'target9' exited manually
+2025-06-27 16:15:32 - [DISCONNECT] user 'target9' disconnected
+2025-06-27 16:15:32 - [DISCONNECT] user 'target7' exited manually
+2025-06-27 16:15:32 - [DISCONNECT] user 'target7' disconnected
+2025-06-27 16:15:32 - [DISCONNECT] user 'target6' exited manually
+2025-06-27 16:15:32 - [DISCONNECT] user 'target6' disconnected

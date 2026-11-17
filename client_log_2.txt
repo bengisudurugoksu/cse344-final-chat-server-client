@@ -1,0 +1,8 @@
+Connected to the server.
+Enter your username: [32mWelcome user2!
+[0m> [32m[Server]: You joined the room 'room2'
+[0m> [33m[Server]: File added to upload queue. Waiting for slot...
+[0m[32m
+[Server]: File 'test.txt' sent to target2 successfully[0m
+> [32m[Server]: Disconnected. Goodbye!
+[0m

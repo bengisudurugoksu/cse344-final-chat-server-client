@@ -1,0 +1,6 @@
+Connected to the server.
+Enter your username: [32mWelcome target4!
+[0m> [32m[Server]: You joined the room 'room104'
+[0m> [36m[File from user4]: You received file 'test.txt' (0 bytes). Check your local folder.
+[0m> [32m[Server]: Disconnected. Goodbye!
+[0m
